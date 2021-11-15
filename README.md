@@ -1,3 +1,7 @@
+# Quick note from me:
+* This is purely a learning project to look at interactive maps using Gatsby for my CSC496 class. 
+* The goal is to use Gatsby Leaflet as a starting template, connect to the NovelCOVID api endpoint, and display that information on the map object.
+* I apologize if there are any bugs or errors, I am still trying to learn myself!
 # 🍃 Gatsby Leaflet Starter
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
